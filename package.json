@@ -1,0 +1,15 @@
+{
+  "name": "com.gaolingx.eventsystem",
+  "displayName": "Gaolingx EventSystem",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "unityRelease": "0a10",
+  "description": "This is a simple EventSystem in Unity.",
+  "keywords": [
+    "Gaolingx",
+    "EventSystem"
+  ],
+  "dependencies": {
+    
+  }
+}
